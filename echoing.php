@@ -41,7 +41,7 @@ END;
 // Because echo does not behave like a function, the following code is invalid.
 ($some_var) ? echo 'true' : echo 'false';
 
-// However, the following examples will work:
+// However, the following examples will work too:
 ($some_var) ? print 'true' : print 'false'; // print is also a construct, but
                                             // it behaves like a function, so
                                             // it may be used in this context.
