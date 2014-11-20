@@ -11,8 +11,7 @@ $var5 = $var3 + $var4;
 echo "var5 equals: ".$var5; # My first comment line in PHP
 echo "<br/>";  
 # My second comment line in PHP
-/* Yet, another
-comment line in PHP */
+/* Yet, another typlical comment line in PHP */
 // How about this comment too
 echo "Is var4 a string? ";
 if (is_string($var4)) {
