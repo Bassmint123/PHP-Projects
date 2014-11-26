@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<!-- Setup checkboxes -->
+<!-- Setup the checkboxes -->
 <p>Would you like to read a file?</p>
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
 <p><label for="user_filename">Type the name of your file here:</label>
