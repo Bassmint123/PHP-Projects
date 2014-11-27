@@ -1,5 +1,5 @@
 <?php
-
+// Checking account example
 class CheckingAccount {
 
   public $balance = 0;
