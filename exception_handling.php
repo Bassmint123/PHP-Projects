@@ -1,6 +1,6 @@
 <?php
 
-// This demonstrates how to use the try, catch and throw functionality of exception handling
+// This demonstrates how to use the try, catch and throw functionality of exception handling in PHP
 
 $age = 16;
 
