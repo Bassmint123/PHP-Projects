@@ -1,5 +1,5 @@
 <?php 
-$var1 = "some sample code";
+$var1 = "some sample code here";
 echo "This is just $var1";
 $var2 = "2.34";
 echo "<br/>";
