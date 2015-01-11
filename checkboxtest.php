@@ -2,7 +2,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>My Checkboxes with File Reader and Table</title>
+<title>Checkboxes with File Reader and Table</title>
 </head>
 
 <body>
